@@ -10,4 +10,5 @@ public class Feature {
     private List<Dialog> mDialogs;
     private List<Screen> mScreens;
     private FibonacciResult mFibonacciResult;
+    private Epic mEpic;
 }
